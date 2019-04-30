@@ -25,6 +25,13 @@
 %% Remove default margins
 \geometry{margin=0in}
 
+
+%% Styling
+\newcommand{\bigquestion}[1]{{\fontsize{160}{170} \selectfont \textbf{#1}}}
+
+
+
+
 %% Font
 \RequirePackage{cmbright}
 \RequirePackage[default]{lato}
@@ -101,7 +108,7 @@
 }
 
 \DeclareOption{36x48}{
-\geometry{paperwidth=48in, paperheight=36in}
+\geometry{paperwidth=36in, paperheight=48in}
 }
 
 
