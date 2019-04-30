@@ -100,6 +100,12 @@
 \geometry{a0paper}
 }
 
+\DeclareOption{36x48}{
+\geometry{paperwidth=48in, paperheight=36in}
+}
+
+
+
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ProcessOptions\relax
 
