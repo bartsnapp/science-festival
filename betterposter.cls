@@ -180,7 +180,7 @@
 
 \vspace{1em}
 }
-\vfill	
+%\vfill	
 \begin{minipage}[t][0.25\textheight][b]{\textwidth}
 #2
 \end{minipage}
@@ -198,7 +198,7 @@
 \begin{minipage}[c]{0.50\textwidth}
 #3
 \end{minipage}%
-\vspace*{.1in}
+\vspace*{2in}
 }
 
 %% Compact QR code
