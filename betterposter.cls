@@ -187,7 +187,7 @@
 
 %% QR code
 \newcommand{\qrcode}[3]{
-\begin{minipage}[c]{0.30\textwidth}
+\begin{minipage}[c]{4in}%{0.10\textwidth}
 \includegraphics[width=\textwidth]{#1}
 \end{minipage}%
 \begin{minipage}[c]{0.12\textwidth}
@@ -197,6 +197,7 @@
 \begin{minipage}[c]{0.50\textwidth}
 #3
 \end{minipage}%
+\vspace{0in}
 }
 
 %% Compact QR code
