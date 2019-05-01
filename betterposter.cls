@@ -198,7 +198,7 @@
 \begin{minipage}[c]{0.50\textwidth}
 #3
 \end{minipage}%
-\vspace{0in}
+\vspace*{.1in}
 }
 
 %% Compact QR code
