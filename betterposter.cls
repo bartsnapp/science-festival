@@ -46,6 +46,7 @@
 
 %% Colours
 \RequirePackage{xcolor}
+\definecolor{bammred}{RGB}{89,20.8,23.5}
 \definecolor{imperialblue}{RGB}{0,62,116}
 \definecolor{empirical}{RGB}{0,77,64}
 \definecolor{theory}{RGB}{26,35,126}
@@ -54,7 +55,7 @@
 
 \newcommand{\columnbackgroundcolor}{white}
 \newcommand{\columnfontcolor}{black}
-\newcommand{\maincolumnbackgroundcolor}{red!50!black}
+\newcommand{\maincolumnbackgroundcolor}{bammred}%{red!50!black}
 \newcommand{\maincolumnfontcolor}{white}
 
 %% Graphics
