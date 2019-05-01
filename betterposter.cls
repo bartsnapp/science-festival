@@ -46,7 +46,7 @@
 
 %% Colours
 \RequirePackage{xcolor}
-\definecolor{bammred}{RGB}{89,20.8,23.5}
+\definecolor{bammred}{RGB}{227,53,60}
 \definecolor{imperialblue}{RGB}{0,62,116}
 \definecolor{empirical}{RGB}{0,77,64}
 \definecolor{theory}{RGB}{26,35,126}
